@@ -1,4 +1,4 @@
-#Simple Angular Store
+	#Simple Angular Store
 ## To run
 Find the server file in the angularjs directory and run:  
 `node server.js'  
